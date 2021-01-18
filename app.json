@@ -1,7 +1,7 @@
 {
 	"name": "TG-iCopy",
 	"description": "Fclone Telegram Bot",
-	"repository": "https://github.com/Nenokkadine/Fclone-Bot",
+	"repository": "https://github.com/modbots/Fclone-Bot",
 	"keywords": ["Fclone","Icopy"],
 	"env": {
 		"BOT_TOKEN": {
